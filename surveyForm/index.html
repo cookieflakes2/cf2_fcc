@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title></title>
+  </head>
+  <body>
+    <h1 id="title">freeCodeCamp Survey Form</h1>
+    <p id="description">Thank you for taking the time to help us improve the platform</p>
+    <form id="survey-form">
+      <label for="name" id="name-label">Name: </label>
+      <input id="name" type="text" placeholder="Enter your name" required/>
+      <label for="email" id="email-label">Email: </label>
+      <input id="email" type="email" placeholder="Enter your Email" required/>
+      <label for="number" id="number-label">Number: </label>
+      <input id="number" type="number" placeholder="Enter your number" min="10" max="10" required/>
+      <label for="dropdown">Would you recommend this form to your girlfriend?</label>
+      <select id="dropdown">
+        <option value="yes">Yes</option>
+        <option value="no">Never bro</option>
+      </select>
+      <label for="dropdown">Is creating this form hard?</label>
+      <input type="radio" id="yes" name="difficulty" value="Yes"/>
+      <input type="radio" id="no" name="difficulty" value="No"/>
+      <label for="dropdown">Based on your experience, which is better? Watching soccer or basketball?</label>
+      <input type="checkbox" id="soccer" name="soccer" value="soccer"/>
+      <input type="checkbox" id="bball" name="bball" value="basketball"/>
+      <textarea id="comments" name="comments" rows="4" cols="30" placeholder="feel free to write any other comments you have here"></textarea>
+      <input type="submit" id="submit" value="Submit">
+    </form>
+  </body>
+</html>
