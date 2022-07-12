@@ -1,6 +1,4 @@
-# cf2_freeCodeCamprojects
-
-## Responsive Web Design
+# freeCodeCamp Responsive Web Design Projects
 
 - [Cat photo app](https://github.com/cookieflakes2/cf2_fcc/tree/master/responsive_web_design/catPhotoApp) - Basic HTML
 - [Cafe menu](https://github.com/cookieflakes2/cf2_fcc/tree/master/responsive_web_design/cafeMenu) - Basic CSS
