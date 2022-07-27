@@ -1,4 +1,6 @@
-# freeCodeCamp Responsive Web Design Projects
+## Projects in freecodecamp curriculum which I have completed:
+
+### Responsive Web Design
 
 - [Cat photo app](https://github.com/cookieflakes2/cf2_fcc/tree/master/responsive_web_design/catPhotoApp) - Basic HTML
 - [Cafe menu](https://github.com/cookieflakes2/cf2_fcc/tree/master/responsive_web_design/cafeMenu) - Basic CSS
@@ -19,3 +21,5 @@
 - [Ferris Wheel](https://github.com/cookieflakes2/cf2_fcc/tree/master/responsive_web_design/ferrisWheel) - CSS Animation
 - [Product Landing Page](https://github.com/cookieflakes2/cf2_fcc/tree/master/responsive_web_design/productLandingPage) - *Certification Project*
 - [Flappy Penguin](https://github.com/cookieflakes2/cf2_fcc/tree/master/responsive_web_design/flappyPenguin) - CSS Transforms
+
+Note: Some of the projects are still work in progress.
