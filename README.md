@@ -16,3 +16,4 @@
 - [Technical documentation page](https://github.com/cookieflakes2/cf2_fcc/tree/master/responsive_web_design/technicalDocumentation) - *Certification project*
 - [City skyline](https://github.com/cookieflakes2/cf2_fcc/tree/master/responsive_web_design/citySkyline) - CSS Variables
 - [Magazine](https://github.com/cookieflakes2/cf2_fcc/tree/master/responsive_web_design/magazine) - CSS Grid
+- [Ferris Wheel](https://github.com/cookieflakes2/cf2_fcc/tree/master/responsive_web_design/ferrisWheel) - CSS Animation
