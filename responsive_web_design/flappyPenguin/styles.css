@@ -13,6 +13,8 @@ body {
     background: linear-gradient(rgb(203, 241, 228), rgb(80, 183, 255));
     position: absolute;
     transform: skew(0deg, 44deg); /* defines a transformation that skews an element on the 2D plane */
+    z-index: 2;
+    margin-top: 100px;
 }
 
 .penguin {
@@ -28,4 +30,5 @@ body {
     background: linear-gradient(90deg, rgb(88, 175, 236), rgb(182, 255, 255));
     z-index: 3;
     position: absolute;
+    margin-top: -58px;
 }
