@@ -21,5 +21,6 @@
 - [Ferris Wheel](https://github.com/cookieflakes2/cf2_fcc/tree/master/responsive_web_design/ferrisWheel) - CSS Animation
 - [Product Landing Page](https://github.com/cookieflakes2/cf2_fcc/tree/master/responsive_web_design/productLandingPage) - *Certification Project*
 - [Flappy Penguin](https://github.com/cookieflakes2/cf2_fcc/tree/master/responsive_web_design/flappyPenguin) - CSS Transforms
+- [Portfolio Website](https://github.com/cookieflakes2/cf2_fcc/tree/master/responsive_web_design/portfolioWebsite) - *Certification Project*
 
 Note: Some of the projects are still work in progress.
